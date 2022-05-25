@@ -1,3 +1,4 @@
+// ___Author___ = Манаков Василий Владимирович;
 package homework3;
 
 import java.util.Arrays;
